@@ -10820,7 +10820,7 @@ body {
   padding: 5rem 0;
 }
 
-.img-fluid {
+.img-fluid-me {
   text-align: center;
   border-radius: 100px;
 }
@@ -10839,4 +10839,8 @@ body {
 .bg-custom {
   background: black;
   background: linear-gradient(black, gray, black);
+}
+
+.img-fluid {
+  border-radius: 10px;
 }
