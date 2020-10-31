@@ -10844,3 +10844,7 @@ body {
 .img-fluid {
   border-radius: 10px;
 }
+
+.changecolor {
+  color: #64a19d;
+}
