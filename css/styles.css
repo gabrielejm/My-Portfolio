@@ -10848,3 +10848,7 @@ body {
 .changecolor {
   color: #64a19d;
 }
+
+.changesize {
+  font-size: 16px;
+}
